@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maral</h1>
 <h3 align="center">A curious frontend developer who is passionate about learning new things.</h3>
 
-- 🔭 I’m currently working on **FunCook-Recipe Website**
-
 - 🌱 I’m currently learning **Next Js and Node Js**
 
 - 📫 How to reach me **maralyoosefi@gmail.com**
